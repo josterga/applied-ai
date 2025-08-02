@@ -1,0 +1,15 @@
+[submodule "chunking"]
+	path = chunking
+	url = https://github.com/josterga/chunking
+[submodule "generation"]
+	path = generation
+	url = https://github.com/josterga/generation
+[submodule "retrieval"]
+	path = retrieval
+	url = https://github.com/josterga/retrieval
+[submodule "mcp-client"]
+	path = mcp-client
+	url = https://github.com/josterga/mcp-client
+[submodule "slack-search"]
+	path = slack-search
+	url = https://github.com/josterga/slack-search
