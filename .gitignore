@@ -1,0 +1,7 @@
+.env
+venv
+omni-gpt-lite.py
+tests/
+gtm_agent/
+evals/
+.DS_Store
