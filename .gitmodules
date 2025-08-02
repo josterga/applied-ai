@@ -13,3 +13,6 @@
 [submodule "slack-search"]
 	path = slack-search
 	url = https://github.com/josterga/slack-search
+[submodule "keyword-extraction"]
+	path = keyword-extraction
+	url = https://github.com/josterga/keyword-extraction
