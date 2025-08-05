@@ -7,12 +7,12 @@
 [submodule "retrieval"]
 	path = retrieval
 	url = https://github.com/josterga/retrieval
-[submodule "mcp-client"]
-	path = mcp-client
-	url = https://github.com/josterga/mcp-client
-[submodule "slack-search"]
-	path = slack-search
-	url = https://github.com/josterga/slack-search
-[submodule "keyword-extraction"]
-	path = keyword-extraction
+[submodule "mcp_client"]
+	path = mcp_client
+	url = https://github.com/josterga/mcp_client
+[submodule "slack_search"]
+	path = slack_search
+	url = https://github.com/josterga/slack_search
+[submodule "keyword_extraction"]
+	path = keyword_extraction
 	url = https://github.com/josterga/keyword-extraction
