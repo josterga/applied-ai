@@ -4,7 +4,7 @@
 [submodule "generation"]
 	path = generation
 	url = https://github.com/josterga/generation
-	branch = omni-gpt
+	branch = omni_gpt
 [submodule "retrieval"]
 	path = retrieval
 	url = https://github.com/josterga/retrieval
