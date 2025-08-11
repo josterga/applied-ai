@@ -5,3 +5,4 @@ tests/
 gtm_agent/
 evals/
 .DS_Store
+docs_embedder
